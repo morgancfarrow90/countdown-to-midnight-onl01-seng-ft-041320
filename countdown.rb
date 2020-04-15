@@ -7,5 +7,3 @@ def countdown()
     x -= 1 
   end
 end
-
-countdown(10) 
